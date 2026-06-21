@@ -1,0 +1,26 @@
+[2026-06-21 17:14:45] ========== SYSTEM HEALTH MONITOR STARTED ==========
+[2026-06-21 17:14:46] CPU Usage: 18.0%
+[2026-06-21 17:14:46] Memory Usage: 69.7% (11.02 GB used of 15.82 GB)
+[2026-06-21 17:14:46] Disk Usage (C:): 82.5% (368.96 GB used of 447.32 GB)
+[2026-06-21 17:14:46] ALERT: Disk usage is above the 80% threshold.
+[2026-06-21 17:14:46] Top 5 Running Processes by CPU Usage:
+[2026-06-21 17:14:52] PID: 0 | Name: System Idle Process | CPU: 304665.70% | Memory: 0.00%
+[2026-06-21 17:14:52] PID: 6028 | Name: rsEngineSvc.exe | CPU: 21229.60% | Memory: 1.77%
+[2026-06-21 17:14:52] PID: 4 | Name: System | CPU: 0.00% | Memory: 0.04%
+[2026-06-21 17:14:52] PID: 220 | Name: Registry | CPU: 0.00% | Memory: 0.39%
+[2026-06-21 17:14:52] PID: 748 | Name: smss.exe | CPU: 0.00% | Memory: 0.01%
+[2026-06-21 17:14:52] ========== SYSTEM HEALTH MONITOR FINISHED ==========
+
+[2026-06-21 17:15:50] ========== SYSTEM HEALTH MONITOR STARTED ==========
+[2026-06-21 17:15:51] CPU Usage: 10.1%
+[2026-06-21 17:15:51] Memory Usage: 70.2% (11.11 GB used of 15.82 GB)
+[2026-06-21 17:15:51] Disk Usage (C:): 82.5% (368.97 GB used of 447.32 GB)
+[2026-06-21 17:15:51] ALERT: Disk usage is above the 80% threshold.
+[2026-06-21 17:15:51] Top 5 Running Processes by CPU Usage:
+[2026-06-21 17:15:57] PID: 0 | Name: System Idle Process | CPU: 2964.30% | Memory: 0.00%
+[2026-06-21 17:15:57] PID: 4 | Name: System | CPU: 0.00% | Memory: 0.04%
+[2026-06-21 17:15:57] PID: 220 | Name: Registry | CPU: 0.00% | Memory: 0.40%
+[2026-06-21 17:15:57] PID: 748 | Name: smss.exe | CPU: 0.00% | Memory: 0.01%
+[2026-06-21 17:15:57] PID: 800 | Name: svchost.exe | CPU: 0.00% | Memory: 0.06%
+[2026-06-21 17:15:57] ========== SYSTEM HEALTH MONITOR FINISHED ==========
+

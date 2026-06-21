@@ -1,0 +1,6 @@
+[2026-06-21 17:16:52] ========== APPLICATION HEALTH CHECK STARTED ==========
+[2026-06-21 17:16:55] HEALTHY | URL: https://opensource-demo.orangehrmlive.com/ | Status Code: 200 | Response Time: 2528.26 ms
+[2026-06-21 17:16:57] HEALTHY | URL: https://www.google.com/ | Status Code: 200 | Response Time: 2451.05 ms
+[2026-06-21 17:17:00] UNHEALTHY | URL: https://httpstat.us/500 | Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-06-21 17:17:00] ========== APPLICATION HEALTH CHECK FINISHED ==========
+
