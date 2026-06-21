@@ -54,7 +54,7 @@ problem-statement-2/
 1. Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/ebad234/accuknox-qa-assessment
 ```
 
 2. Move into the project folder:
